@@ -1,0 +1,6 @@
+flask
+requests
+bs4
+urllib.parse
+datetime
+re
